@@ -12,7 +12,7 @@ public class WordCounter {
 
         try {
             // Provide the path to the text file you want to count words in
-            reader = new BufferedReader(new FileReader("/Users/tima/git/LSP_Git_Apple/LSP_Assignments_Fall_2023/src/org/howard/edu/lsp/assignment2/words.txt"));
+            reader = new BufferedReader(new FileReader("/Users/tima/git/LSP_Git_Apple/LSP_Assignments_Fall_2023/main.java.resource/words.txt"));
             String line = reader.readLine();
 
             // Create a map to store word counts
