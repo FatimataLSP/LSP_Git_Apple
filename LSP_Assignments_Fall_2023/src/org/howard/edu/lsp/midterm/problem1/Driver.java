@@ -11,4 +11,4 @@ public class Driver {
 	        System.out.println("book 1 equals book 3: " + book1.equals(book3));
 	        System.out.println("Display of book's title, author, and year: " + book1.toString());
 	    }
-	}
+}
