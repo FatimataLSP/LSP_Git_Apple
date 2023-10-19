@@ -1,5 +1,6 @@
 package org.howard.edu.lsp.midterm.problem2;
 
+
 public class Driver {
 	public static void main(String[] args) {
         Range range1 = new Range(5, 10);

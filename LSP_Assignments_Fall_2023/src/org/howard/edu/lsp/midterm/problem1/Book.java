@@ -1,5 +1,6 @@
 package org.howard.edu.lsp.midterm.problem1;
 
+
 public class Book {
 	private String title;
     private String author;
