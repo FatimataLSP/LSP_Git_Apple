@@ -7,9 +7,10 @@ public class IntegerSetException extends Exception {
 * execution of operations in the IntegerSet class. It includes a custom error message
 * for more clear error handling.
 *
-* @author Fatimata Niang
+* @author  Fatimata Niang
 */
 
+	
 	private static final long serialVersionUID = 1L;
 	
 	/**

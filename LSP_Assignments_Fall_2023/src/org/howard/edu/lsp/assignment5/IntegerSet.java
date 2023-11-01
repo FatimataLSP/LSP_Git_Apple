@@ -14,6 +14,7 @@ import java.util.List;
  * @author Fatimata Niang
  */
 
+
 public class IntegerSet {
 	
 	private List<Integer> set = new ArrayList<Integer>();
