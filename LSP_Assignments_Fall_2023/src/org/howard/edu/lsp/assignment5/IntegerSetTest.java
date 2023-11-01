@@ -21,7 +21,7 @@ public class IntegerSetTest {
         set2 = new IntegerSet();
         set3 = new IntegerSet();
     }
-
+    
     /**
      * Test for the isEmpty method.
      * This test checks if the isEmpty method correctly identifies an empty set.
